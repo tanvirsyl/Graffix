@@ -8,9 +8,9 @@ const hero = () => {
   return (
     <header>
       <div className='container header_container'>
-        <h5>Hello I'm</h5>
-        <h1>Tanvir Hussain</h1>
-        <h5 className='text-light'>Front-end developer</h5>
+        <h5>Hello We are</h5>
+        <h1>Team Graffix</h1>
+        <h5 className='text-light'>UI/UX, Front & Back End Development.</h5>
         <CTA />
         <HeroSocial/>
 
